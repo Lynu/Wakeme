@@ -1,10 +1,2 @@
-First readme commit
-
-
-
-Second commit to see if the change is visable
-
-
-def hello(str)
-  puts "hello #{str}!"
-end
+<h1>Tell me What do we do</h1>
+<p>I dont know yet sir, Please tell me!</p>
