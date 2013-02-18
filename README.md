@@ -1,62 +1,67 @@
 <h3>Welcome to Wake Me Smoothly</h3>
 
-<h3>This app will be contructed to help hard sleepers as ourselfes to wake up with their favorite song from youtube , their phone or soundclound for some artist released songs.</h3>
+<h3>This app will be constructed to help hard sleepers as ourselfes to wake up with their favorite song from youtube , audio files on your phone and allso mayb soundclound!</h3>
 
 <p>I dont know yet sir, Please tell me!</p>
 <hr>
 
-Project Titles as a level-1 heading
-
-with descriptive tagline: I should be informed and intrigued. Examples:
-"Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort"
-"Rails is a web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern."
-"Resque (pronounced like "rescue") is a Redis-backed library for creating background jobs, placing those jobs on multiple queues, and processing them later."
 
 <h3>Overview</h3>
 <p>What does the app do?</p>
+<p>I dont know yet sir, Please tell me!</p>
 
 <p>Are you allso a deep sleeper and do you get sick of those lame smartphone settings for your alarm? 
 
 Wait no longer and keep an eye on our development.
 
-If you really want to wake up you should still use a non internet reliable source in case your home internet fails, </p>
+If you really want to wake up you should still use a non internet reliable source in case your home internet fails, But the app certantly won't!</p>
 
 
-<h3>Getting Started</h3>
+<h3>Functionality</h3>
 
-installation & prerequisites
-how to run examples and tests
-include a Procfile to start any necessary servers or daemon processes
-location of:
-code
-issue tracker
-wiki
-blog posts, screencasts, etc
-compiled documentation (add the project to rdoc.info)
-travis-ci results
-mailing list
-Design Goals
+<h5>Wiki</h5>
 
-lightweight or full-featured?
-performance, flexibility, expressiveness?
-Detailed Usage
+Available soon!
 
-models and interface
-examples
-configuration
-middleware or plugins
-how it works
-Comparable Tools
+<h5>Detailed Usage</h5>
 
-<h3>Developer info</h3>
+More details will be disclosed when beta testing will be completed.
 
-Important Components
-layout of internal code tree
-Limitations and known issues
-performance and benchmarking
-Colophon
+<h5>Models and interface</h5>
 
-Credits -- everyone who has contributed code, libraries from which we've borrowed code.
-Copyright and License -- state the license type (typically "Apache 2.0" or "All Rights Reserved and Confidential") and refer to the LICENSE.md file. Don't paste the license contents in here.
-How to contribute
+We are currently working with an MVC developing structure to ensure stable releases.
+
+<h5>How it works</h5>
+
+As end user you will be able to set a alarm at your specified time with your music options for youtube , soundclound or music that is on your phone or sd card.
+
+Youtube will be able to play your own playlist after you logged in with WakeMeSmoothly at youtube.
+
+Soundclound options are still in consideration.
+
+<h5>Comparable Tools</h5>
+
+None!, Becouse everyone that tried made a half product.
+
+<h5>Developer info</h5>
+
+Credits --Serichona and SudoSam from Lynu Dev Team
+
+Libraries--
+
+Twitter bootstrap
+Youtube API
+
+Copyright and License -- 
+
+All Rights Reserved and Confidential
+
+All information about our license can be found in our LICENSE.md file.
+
+How to contribute - 
+
+Contact us by email @ dev@lynu.nl
+
 References
+
+<a href="www.lynu.nl">www.lynu.nl</a> 
